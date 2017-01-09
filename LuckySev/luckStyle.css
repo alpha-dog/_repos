@@ -1,0 +1,55 @@
+
+@import url('https://fonts.googleapis.com/css?family=Arima+Madurai|Montserrat');
+
+body
+{
+    background-color: navajowhite;
+}
+header
+{
+    background-color: cornflowerblue;
+    height: 100px;  
+    font-family: 'Arima Madurai', cursive;   
+    
+}
+footer
+{
+    background-color: lightgreen;
+    height: 100px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.navigate
+{
+    background-color: thistle;
+}
+a:visited
+{
+    color: orangered;
+}
+a:hover
+{
+    font-weight: bold;
+}
+a:active
+{
+    text-decoration: none;
+}
+.inlineTable 
+{
+            display: inline-block;
+}
+
+/*
+2. Add a section to the menu for beverages, with a table like this: Beverages is underlined and theres no borders
+
+      Beverages 
+
+Root  Beer      $3.00
+
+Bottled Water   $1.25
+
+Lemonade        $1.00
+
+Iced Tea        $1.25
+
